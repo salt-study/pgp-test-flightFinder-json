@@ -1,677 +1,543 @@
 [
     {
-        "flight_id": "S83195",
-        "depatureDestination": "Stockholm",
-        "arrivalDestination": "Oslo",
-        "itineraries": [
-            {
-                "depatureAt": "2022-12-12T12:30:00",
-                "arriveAt": "2022-12-12T13:30:00",
-                "avaliableSeats": 2,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-12T15:30:00",
-                "arriveAt": "2022-12-12T16:30:00",
-                "avaliableSeats": 5,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-12T18:30:00",
-                "arriveAt": "2022-12-12T19:30:00",
-                "avaliableSeats": 0,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-12T21:30:00",
-                "arriveAt": "2022-12-12T22:30:00",
-                "avaliableSeats": 20,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-13T12:30:00",
-                "arriveAt": "2022-12-13T13:30:00",
-                "avaliableSeats": 1,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-13T15:30:00",
-                "arriveAt": "2022-12-13T16:30:00",
-                "avaliableSeats": 53,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-13T18:30:00",
-                "arriveAt": "2022-12-13T19:30:00",
-                "avaliableSeats": 50,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-13T21:30:00",
-                "arriveAt": "2022-12-13T22:30:00",
-                "avaliableSeats": 15,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-14T12:30:00",
-                "arriveAt": "2022-12-14T13:30:00",
-                "avaliableSeats": 1,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-14T15:30:00",
-                "arriveAt": "2022-12-14T16:30:00",
-                "avaliableSeats": 53,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-14T18:30:00",
-                "arriveAt": "2022-12-14T19:30:00",
-                "avaliableSeats": 50,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-14T21:30:00",
-                "arriveAt": "2022-12-14T22:30:00",
-                "avaliableSeats": 0,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-15T12:30:00",
-                "arriveAt": "2022-12-15T13:30:00",
-                "avaliableSeats": 1,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-15T15:30:00",
-                "arriveAt": "2022-12-15T16:30:00",
-                "avaliableSeats": 53,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-15T18:30:00",
-                "arriveAt": "2022-12-15T19:30:00",
-                "avaliableSeats": 50,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-15T21:30:00",
-                "arriveAt": "2022-12-15T22:30:00",
-                "avaliableSeats": 0,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-16T12:30:00",
-                "arriveAt": "2022-12-16T13:30:00",
-                "avaliableSeats": 10,
-                "prices": [
-                    {"currency": "SEK", "adult": 2000, "child": 500}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-16T15:30:00",
-                "arriveAt": "2022-12-16T16:30:00",
-                "avaliableSeats": 5,
-                "prices": [
-                    {"currency": "SEK", "adult": 2300, "child": 550}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-16T18:30:00",
-                "arriveAt": "2022-12-16T19:30:00",
-                "avaliableSeats": 30,
-                "prices": [
-                    {"currency": "SEK", "adult": 2330, "child": 550}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-16T21:30:00",
-                "arriveAt": "2022-12-16T22:30:00",
-                "avaliableSeats": 2,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 400}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-17T18:30:00",
-                "arriveAt": "2022-12-17T19:30:00",
-                "avaliableSeats": 3,
-                "prices": [
-                    {"currency": "SEK", "adult": 3000, "child": 700}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-17T21:30:00",
-                "arriveAt": "2022-12-17T22:30:00",
-                "avaliableSeats": 10,
-                "prices": [
-                    {"currency": "SEK", "adult": 2300, "child": 400}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-18T12:30:00",
-                "arriveAt": "2022-12-18T13:30:00",
-                "avaliableSeats": 10,
-                "prices": [
-                    {"currency": "SEK", "adult": 3400, "child": 800}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-18T15:30:00",
-                "arriveAt": "2022-12-18T16:30:00",
-                "avaliableSeats": 1,
-                "prices": [
-                    {"currency": "SEK", "adult": 3700, "child": 770}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-18T18:30:00",
-                "arriveAt": "2022-12-18T19:30:00",
-                "avaliableSeats": 40,
-                "prices": [
-                    {"currency": "SEK", "adult": 4000, "child": 800}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-18T21:30:00",
-                "arriveAt": "2022-12-18T22:30:00",
-                "avaliableSeats": 5,
-                "prices": [
-                    {"currency": "SEK", "adult": 2200, "child": 300}
-                ]
-            }
-        ]
-    },
-    {
-        "flight_id": "B83195",
-        "depatureDestination": "Oslo",
+        "route_id": "997241023-4",
+        "departureDestination": "Oslo",
         "arrivalDestination": "Stockholm",
         "itineraries": [
             {
-                "depatureAt": "2022-12-12T11:00:00",
-                "arriveAt": "2022-12-12T12:00:00",
-                "avaliableSeats": 5,
-                "prices": [
-                    {"currency": "SEK", "adult": 1300, "child": 325}
-                ]
+                "flight_id": "614370844-4",
+                "departureAt": "2022-03-03T09:56:01.000Z",
+                "arrivalAt": "2022-03-03T11:56:01.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 90.91,
+                    "child": 126.54
+                }
             },
             {
-                "depatureAt": "2022-12-12T13:00:00",
-                "arriveAt": "2022-12-12T14:00:00",
-                "avaliableSeats": 10,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
+                "flight_id": "840103888-X",
+                "departureAt": "2022-05-02T22:39:10.000Z",
+                "arrivalAt": "2022-05-03T03:39:10.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 187.27,
+                    "child": 117.34
+                }
             },
             {
-                "depatureAt": "2022-12-12T16:00:00",
-                "arriveAt": "2022-12-12T17:00:00",
-                "avaliableSeats": 3,
-                "prices": [
-                    {"currency": "SEK", "adult": 1300, "child": 325}
-                ]
+                "flight_id": "372885684-3",
+                "departureAt": "2022-04-22T23:29:43.000Z",
+                "arrivalAt": "2022-04-23T06:29:43.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 168.41,
+                    "child": 137.09
+                }
             },
             {
-                "depatureAt": "2022-12-12T22:00:00",
-                "arriveAt": "2022-12-12T23:00:00",
-                "avaliableSeats": 20,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
+                "flight_id": "168513061-5",
+                "departureAt": "2022-06-15T16:26:32.000Z",
+                "arrivalAt": "2022-06-16T03:26:32.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 70.79,
+                    "child": 82.51
+                }
             },
             {
-                "depatureAt": "2022-12-13T14:00:00",
-                "arriveAt": "2022-12-13T15:00:00",
-                "avaliableSeats": 2,
-                "prices": [
-                    {"currency": "SEK", "adult": 2000, "child": 325}
-                ]
+                "flight_id": "945582101-X",
+                "departureAt": "2022-02-25T22:40:04.000Z",
+                "arrivalAt": "2022-02-26T00:40:04.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 109.28,
+                    "child": 90.11
+                }
             },
             {
-                "depatureAt": "2022-12-14T14:00:00",
-                "arriveAt": "2022-12-14T15:00:00",
-                "avaliableSeats": 10,
-                "prices": [
-                    {"currency": "SEK", "adult": 2100, "child": 325}
-                ]
+                "flight_id": "477368997-8",
+                "departureAt": "2022-06-01T14:25:47.000Z",
+                "arrivalAt": "2022-06-02T00:25:47.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 80.9,
+                    "child": 167.34
+                }
             },
             {
-                "depatureAt": "2022-12-15T14:00:00",
-                "arriveAt": "2022-12-15T15:00:00",
-                "avaliableSeats": 2,
-                "prices": [
-                    {"currency": "SEK", "adult": 2000, "child": 325}
-                ]
+                "flight_id": "787125528-2",
+                "departureAt": "2022-04-18T01:17:13.000Z",
+                "arrivalAt": "2022-04-18T13:17:13.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 102.52,
+                    "child": 172.3
+                }
             },
             {
-                "depatureAt": "2022-12-16T14:00:00",
-                "arriveAt": "2022-12-16T15:00:00",
-                "avaliableSeats": 9,
-                "prices": [
-                    {"currency": "SEK", "adult": 2000, "child": 325}
-                ]
+                "flight_id": "377172450-3",
+                "departureAt": "2022-05-10T22:03:31.000Z",
+                "arrivalAt": "2022-05-11T04:03:31.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 144.56,
+                    "child": 40.22
+                }
             },
             {
-                "depatureAt": "2022-12-17T14:00:00",
-                "arriveAt": "2022-12-17T15:00:00",
-                "avaliableSeats": 33,
-                "prices": [
-                    {"currency": "SEK", "adult": 1800, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-18T14:00:00",
-                "arriveAt": "2022-12-18T15:00:00",
-                "avaliableSeats": 10,
-                "prices": [
-                    {"currency": "SEK", "adult": 1800, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-19T22:00:00",
-                "arriveAt": "2022-12-19T23:00:00",
-                "avaliableSeats": 2,
-                "prices": [
-                    {"currency": "SEK", "adult": 3000, "child": 600}
-                ]
+                "flight_id": "597748110-1",
+                "departureAt": "2022-06-24T10:09:48.000Z",
+                "arrivalAt": "2022-06-24T16:09:48.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 65.62,
+                    "child": 74.58
+                }
             }
         ]
     },
     {
-        "flight_id": "C83195",
-        "depatureDestination": "Oslo",
+        "route_id": "518385452-1",
+        "departureDestination": "Oslo",
         "arrivalDestination": "Amsterdam",
         "itineraries": [
             {
-                "depatureAt": "2022-12-12T12:30:00",
-                "arriveAt": "2022-12-12T14:00:00",
-                "avaliableSeats": 12,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
+                "flight_id": "377172450-3",
+                "departureAt": "2022-05-10T22:03:31.000Z",
+                "arrivalAt": "2022-05-11T04:03:31.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 144.56,
+                    "child": 40.22
+                }
             },
             {
-                "depatureAt": "2022-12-12T15:30:00",
-                "arriveAt": "2022-12-12T17:00:00",
-                "avaliableSeats": 15,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
+                "flight_id": "477368997-8",
+                "departureAt": "2022-06-01T14:25:47.000Z",
+                "arrivalAt": "2022-06-02T00:25:47.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 80.9,
+                    "child": 167.34
+                }
             },
             {
-                "depatureAt": "2022-12-12T18:30:00",
-                "arriveAt": "2022-12-12T20:00:00",
-                "avaliableSeats": 5,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
+                "flight_id": "109940282-4",
+                "departureAt": "2022-06-15T11:01:25.000Z",
+                "arrivalAt": "2022-06-15T23:01:25.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 180.6,
+                    "child": 136.52
+                }
             },
             {
-                "depatureAt": "2022-12-12T21:30:00",
-                "arriveAt": "2022-12-12T23:00:00",
-                "avaliableSeats": 20,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
+                "flight_id": "579536248-4",
+                "departureAt": "2022-06-13T15:54:34.000Z",
+                "arrivalAt": "2022-06-13T17:54:34.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 96.31,
+                    "child": 64.35
+                }
             },
             {
-                "depatureAt": "2022-12-13T12:30:00",
-                "arriveAt": "2022-12-13T14:00:00",
-                "avaliableSeats": 1,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
+                "flight_id": "199144847-3",
+                "departureAt": "2022-04-15T09:24:23.000Z",
+                "arrivalAt": "2022-04-15T20:24:23.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 113.15,
+                    "child": 131.45
+                }
             },
             {
-                "depatureAt": "2022-12-13T15:30:00",
-                "arriveAt": "2022-12-13T17:00:00",
-                "avaliableSeats": 53,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
+                "flight_id": "594997767-X",
+                "departureAt": "2022-05-21T21:00:20.000Z",
+                "arrivalAt": "2022-05-22T02:00:20.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 145.11,
+                    "child": 94.58
+                }
             },
             {
-                "depatureAt": "2022-12-13T18:30:00",
-                "arriveAt": "2022-12-13T20:00:00",
-                "avaliableSeats": 50,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
+                "flight_id": "844275436-9",
+                "departureAt": "2022-05-27T21:10:46.000Z",
+                "arrivalAt": "2022-05-28T00:10:46.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 124.08,
+                    "child": 124.56
+                }
             },
             {
-                "depatureAt": "2022-12-13T21:30:00",
-                "arriveAt": "2022-12-13T23:00:00",
-                "avaliableSeats": 15,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-14T12:30:00",
-                "arriveAt": "2022-12-14T14:00:00",
-                "avaliableSeats": 1,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-14T15:30:00",
-                "arriveAt": "2022-12-14T17:00:00",
-                "avaliableSeats": 53,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-14T18:30:00",
-                "arriveAt": "2022-12-14T20:00:00",
-                "avaliableSeats": 50,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-14T21:30:00",
-                "arriveAt": "2022-12-14T23:00:00",
-                "avaliableSeats": 0,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-15T12:30:00",
-                "arriveAt": "2022-12-15T14:00:00",
-                "avaliableSeats": 1,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-15T15:30:00",
-                "arriveAt": "2022-12-15T17:00:00",
-                "avaliableSeats": 53,
-                "prices": [
-                    {"currency": "SEK", "adult": 1500, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-15T18:30:00",
-                "arriveAt": "2022-12-15T20:00:00",
-                "avaliableSeats": 50,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-15T21:30:00",
-                "arriveAt": "2022-12-15T23:00:00",
-                "avaliableSeats": 0,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 325}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-16T12:30:00",
-                "arriveAt": "2022-12-16T14:00:00",
-                "avaliableSeats": 10,
-                "prices": [
-                    {"currency": "SEK", "adult": 2000, "child": 500}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-16T15:30:00",
-                "arriveAt": "2022-12-16T17:00:00",
-                "avaliableSeats": 5,
-                "prices": [
-                    {"currency": "SEK", "adult": 2300, "child": 550}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-16T18:30:00",
-                "arriveAt": "2022-12-16T20:00:00",
-                "avaliableSeats": 30,
-                "prices": [
-                    {"currency": "SEK", "adult": 2330, "child": 550}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-16T21:30:00",
-                "arriveAt": "2022-12-16T23:00:00",
-                "avaliableSeats": 2,
-                "prices": [
-                    {"currency": "SEK", "adult": 1900, "child": 400}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-17T18:30:00",
-                "arriveAt": "2022-12-17T20:00:00",
-                "avaliableSeats": 3,
-                "prices": [
-                    {"currency": "SEK", "adult": 3000, "child": 700}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-17T21:30:00",
-                "arriveAt": "2022-12-17T23:00:00",
-                "avaliableSeats": 10,
-                "prices": [
-                    {"currency": "SEK", "adult": 2300, "child": 400}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-18T12:30:00",
-                "arriveAt": "2022-12-18T14:00:00",
-                "avaliableSeats": 10,
-                "prices": [
-                    {"currency": "SEK", "adult": 3400, "child": 800}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-18T15:30:00",
-                "arriveAt": "2022-12-18T17:00:00",
-                "avaliableSeats": 1,
-                "prices": [
-                    {"currency": "SEK", "adult": 3700, "child": 770}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-18T18:30:00",
-                "arriveAt": "2022-12-18T20:00:00",
-                "avaliableSeats": 40,
-                "prices": [
-                    {"currency": "SEK", "adult": 4000, "child": 800}
-                ]
-            },
-            {
-                "depatureAt": "2022-12-18T21:30:00",
-                "arriveAt": "2022-12-18T23:00:00",
-                "avaliableSeats": 5,
-                "prices": [
-                    {"currency": "SEK", "adult": 2200, "child": 300}
-                ]
+                "flight_id": "593874903-4",
+                "departureAt": "2022-04-02T02:58:47.000Z",
+                "arrivalAt": "2022-04-02T06:58:47.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 140.39,
+                    "child": 144.88
+                }
             }
         ]
     },
     {
-        "flight_id": "A83195",
-        "depatureDestination": "Amsterdam",
+        "route_id": "020606027-0",
+        "departureDestination": "Stockholm",
+        "arrivalDestination": "Amsterdam",
+        "itineraries": [
+            {
+                "flight_id": "377172450-3",
+                "departureAt": "2022-05-10T22:03:31.000Z",
+                "arrivalAt": "2022-05-11T04:03:31.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 144.56,
+                    "child": 40.22
+                }
+            },
+            {
+                "flight_id": "477368997-8",
+                "departureAt": "2022-06-01T14:25:47.000Z",
+                "arrivalAt": "2022-06-02T00:25:47.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 80.9,
+                    "child": 167.34
+                }
+            },
+            {
+                "flight_id": "614370844-4",
+                "departureAt": "2022-03-03T09:56:01.000Z",
+                "arrivalAt": "2022-03-03T11:56:01.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 90.91,
+                    "child": 126.54
+                }
+            },
+            {
+                "flight_id": "842101731-4",
+                "departureAt": "2022-05-20T07:22:53.000Z",
+                "arrivalAt": "2022-05-20T09:22:53.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 96.8,
+                    "child": 53.12
+                }
+            },
+            {
+                "flight_id": "992523390-9",
+                "departureAt": "2022-05-01T14:05:36.000Z",
+                "arrivalAt": "2022-05-02T01:05:36.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 119.9,
+                    "child": 115.99
+                }
+            },
+            {
+                "flight_id": "418761601-2",
+                "departureAt": "2022-06-02T00:22:02.000Z",
+                "arrivalAt": "2022-06-02T04:22:02.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 71.05,
+                    "child": 114
+                }
+            },
+            {
+                "flight_id": "372885684-3",
+                "departureAt": "2022-04-22T23:29:43.000Z",
+                "arrivalAt": "2022-04-23T06:29:43.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 168.41,
+                    "child": 137.09
+                }
+            },
+            {
+                "flight_id": "460842699-0",
+                "departureAt": "2022-06-22T19:09:18.000Z",
+                "arrivalAt": "2022-06-23T00:09:18.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 183.68,
+                    "child": 123.69
+                }
+            },
+            {
+                "flight_id": "594997767-X",
+                "departureAt": "2022-05-21T21:00:20.000Z",
+                "arrivalAt": "2022-05-22T02:00:20.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 145.11,
+                    "child": 94.58
+                }
+            }
+        ]
+    },
+    {
+        "route_id": "638874520-2",
+        "departureDestination": "Stockholm",
         "arrivalDestination": "Oslo",
         "itineraries": [
             {
-                "depatureAt": "2022-12-12T10:30:00",
-                "arriveAt": "2022-12-12T12:00:00",
-                "avaliableSeats": 12,
-                "prices": [
-                    {"currency": "SEK", "adult": 2222, "child": 325}
-                ]
+                "flight_id": "761261258-5",
+                "departureAt": "2022-03-17T10:40:27.000Z",
+                "arrivalAt": "2022-03-17T20:40:27.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 126.47,
+                    "child": 52.65
+                }
             },
             {
-                "depatureAt": "2022-12-12T15:30:00",
-                "arriveAt": "2022-12-12T17:00:00",
-                "avaliableSeats": 53,
-                "prices": [
-                    {"currency": "SEK", "adult": 2333, "child": 325}
-                ]
+                "flight_id": "199144847-3",
+                "departureAt": "2022-04-15T09:24:23.000Z",
+                "arrivalAt": "2022-04-15T20:24:23.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 113.15,
+                    "child": 131.45
+                }
             },
             {
-                "depatureAt": "2022-12-12T23:30:00",
-                "arriveAt": "2022-12-13T01:00:00",
-                "avaliableSeats": 30,
-                "prices": [
-                    {"currency": "SEK", "adult": 2000, "child": 325}
-                ]
+                "flight_id": "109940282-4",
+                "departureAt": "2022-06-15T11:01:25.000Z",
+                "arrivalAt": "2022-06-15T23:01:25.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 180.6,
+                    "child": 136.52
+                }
             },
             {
-                "depatureAt": "2022-12-13T10:30:00",
-                "arriveAt": "2022-12-13T12:00:00",
-                "avaliableSeats": 3,
-                "prices": [
-                    {"currency": "SEK", "adult": 2000, "child": 325}
-                ]
+                "flight_id": "059323999-7",
+                "departureAt": "2022-06-14T15:54:58.000Z",
+                "arrivalAt": "2022-06-14T18:54:58.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 136.18,
+                    "child": 79.27
+                }
             },
             {
-                "depatureAt": "2022-12-13T15:30:00",
-                "arriveAt": "2022-12-13T17:00:00",
-                "avaliableSeats": 3,
-                "prices": [
-                    {"currency": "SEK", "adult": 2333, "child": 325}
-                ]
+                "flight_id": "390014399-4",
+                "departureAt": "2022-03-05T19:07:43.000Z",
+                "arrivalAt": "2022-03-06T07:07:43.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 88.14,
+                    "child": 93.88
+                }
             },
             {
-                "depatureAt": "2022-12-13T23:30:00",
-                "arriveAt": "2022-12-14T01:00:00",
-                "avaliableSeats": 12,
-                "prices": [
-                    {"currency": "SEK", "adult": 2333, "child": 325}
-                ]
+                "flight_id": "655773001-0",
+                "departureAt": "2022-06-13T17:16:25.000Z",
+                "arrivalAt": "2022-06-13T18:16:25.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 66.78,
+                    "child": 134.56
+                }
             },
             {
-                "depatureAt": "2022-12-14T10:30:00",
-                "arriveAt": "2022-12-14T12:00:00",
-                "avaliableSeats": 1,
-                "prices": [
-                    {"currency": "SEK", "adult": 2333, "child": 325}
-                ]
+                "flight_id": "593874903-4",
+                "departureAt": "2022-04-02T02:58:47.000Z",
+                "arrivalAt": "2022-04-02T06:58:47.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 140.39,
+                    "child": 144.88
+                }
             },
             {
-                "depatureAt": "2022-12-14T15:30:00",
-                "arriveAt": "2022-12-14T17:00:00",
-                "avaliableSeats": 5,
-                "prices": [
-                    {"currency": "SEK", "adult": 2333, "child": 325}
-                ]
+                "flight_id": "842101731-4",
+                "departureAt": "2022-05-20T07:22:53.000Z",
+                "arrivalAt": "2022-05-20T09:22:53.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 96.8,
+                    "child": 53.12
+                }
             },
             {
-                "depatureAt": "2022-12-14T23:30:00",
-                "arriveAt": "2022-12-15T01:00:00",
-                "avaliableSeats": 5,
-                "prices": [
-                    {"currency": "SEK", "adult": 2333, "child": 325}
-                ]
+                "flight_id": "597748110-1",
+                "departureAt": "2022-06-24T10:09:48.000Z",
+                "arrivalAt": "2022-06-24T16:09:48.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 65.62,
+                    "child": 74.58
+                }
+            }
+        ]
+    },
+    {
+        "route_id": "920886123-6",
+        "departureDestination": "Amsterdam",
+        "arrivalDestination": "Stockholm",
+        "itineraries": [
+            {
+                "flight_id": "593874903-4",
+                "departureAt": "2022-04-02T02:58:47.000Z",
+                "arrivalAt": "2022-04-02T06:58:47.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 140.39,
+                    "child": 144.88
+                }
             },
             {
-                "depatureAt": "2022-12-15T10:30:00",
-                "arriveAt": "2022-12-15T12:00:00",
-                "avaliableSeats": 11,
-                "prices": [
-                    {"currency": "SEK", "adult": 2000, "child": 325}
-                ]
+                "flight_id": "840103888-X",
+                "departureAt": "2022-05-02T22:39:10.000Z",
+                "arrivalAt": "2022-05-03T03:39:10.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 187.27,
+                    "child": 117.34
+                }
             },
             {
-                "depatureAt": "2022-12-15T15:30:00",
-                "arriveAt": "2022-12-15T17:00:00",
-                "avaliableSeats": 3,
-                "prices": [
-                    {"currency": "SEK", "adult": 2000, "child": 325}
-                ]
+                "flight_id": "209825745-7",
+                "departureAt": "2022-03-31T16:03:51.000Z",
+                "arrivalAt": "2022-04-01T01:03:51.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 175.41,
+                    "child": 51.73
+                }
             },
             {
-                "depatureAt": "2022-12-15T23:30:00",
-                "arriveAt": "2022-12-16T01:00:00",
-                "avaliableSeats": 50,
-                "prices": [
-                    {"currency": "SEK", "adult": 2000, "child": 325}
-                ]
+                "flight_id": "181795995-6",
+                "departureAt": "2022-05-07T03:33:22.000Z",
+                "arrivalAt": "2022-05-07T09:33:22.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 108.78,
+                    "child": 50.47
+                }
             },
             {
-                "depatureAt": "2022-12-16T10:30:00",
-                "arriveAt": "2022-12-16T12:00:00",
-                "avaliableSeats": 7,
-                "prices": [
-                    {"currency": "SEK", "adult": 2000, "child": 500}
-                ]
+                "flight_id": "992523390-9",
+                "departureAt": "2022-05-01T14:05:36.000Z",
+                "arrivalAt": "2022-05-02T01:05:36.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 119.9,
+                    "child": 115.99
+                }
             },
             {
-                "depatureAt": "2022-12-16T15:30:00",
-                "arriveAt": "2022-12-16T17:00:00",
-                "avaliableSeats": 5,
-                "prices": [
-                    {"currency": "SEK", "adult": 2300, "child": 550}
-                ]
+                "flight_id": "655773001-0",
+                "departureAt": "2022-06-13T17:16:25.000Z",
+                "arrivalAt": "2022-06-13T18:16:25.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 66.78,
+                    "child": 134.56
+                }
             },
             {
-                "depatureAt": "2022-12-16T23:30:00",
-                "arriveAt": "2022-12-17T01:00:00",
-                "avaliableSeats": 30,
-                "prices": [
-                    {"currency": "SEK", "adult": 2330, "child": 550}
-                ]
+                "flight_id": "460842699-0",
+                "departureAt": "2022-06-22T19:09:18.000Z",
+                "arrivalAt": "2022-06-23T00:09:18.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 183.68,
+                    "child": 123.69
+                }
             },
             {
-                "depatureAt": "2022-12-17T12:30:00",
-                "arriveAt": "2022-12-17T14:00:00",
-                "avaliableSeats": 9,
-                "prices": [
-                    {"currency": "SEK", "adult": 3333, "child": 900}
-                ]
+                "flight_id": "444272628-0",
+                "departureAt": "2022-03-29T06:18:20.000Z",
+                "arrivalAt": "2022-03-29T11:18:20.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 185.52,
+                    "child": 95.86
+                }
             },
             {
-                "depatureAt": "2022-12-17T23:30:00",
-                "arriveAt": "2022-12-18T01:00:00",
-                "avaliableSeats": 10,
-                "prices": [
-                    {"currency": "SEK", "adult": 2300, "child": 400}
-                ]
+                "flight_id": "761261258-5",
+                "departureAt": "2022-03-17T10:40:27.000Z",
+                "arrivalAt": "2022-03-17T20:40:27.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 126.47,
+                    "child": 52.65
+                }
+            }
+        ]
+    },
+    {
+        "route_id": "885693958-4",
+        "departureDestination": "Amsterdam",
+        "arrivalDestination": "Oslo",
+        "itineraries": [
+            {
+                "flight_id": "199144847-3",
+                "departureAt": "2022-04-15T09:24:23.000Z",
+                "arrivalAt": "2022-04-15T20:24:23.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 113.15,
+                    "child": 131.45
+                }
             },
             {
-                "depatureAt": "2022-12-18T21:30:00",
-                "arriveAt": "2022-12-18T23:00:00",
-                "avaliableSeats": 33,
-                "prices": [
-                    {"currency": "SEK", "adult": 4000, "child": 800}
-                ]
+                "flight_id": "181795995-6",
+                "departureAt": "2022-05-07T03:33:22.000Z",
+                "arrivalAt": "2022-05-07T09:33:22.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 108.78,
+                    "child": 50.47
+                }
+            },
+            {
+                "flight_id": "655773001-0",
+                "departureAt": "2022-06-13T17:16:25.000Z",
+                "arrivalAt": "2022-06-13T18:16:25.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 66.78,
+                    "child": 134.56
+                }
+            },
+            {
+                "flight_id": "593874903-4",
+                "departureAt": "2022-04-02T02:58:47.000Z",
+                "arrivalAt": "2022-04-02T06:58:47.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 140.39,
+                    "child": 144.88
+                }
+            },
+            {
+                "flight_id": "372885684-3",
+                "departureAt": "2022-04-22T23:29:43.000Z",
+                "arrivalAt": "2022-04-23T06:29:43.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 168.41,
+                    "child": 137.09
+                }
+            },
+            {
+                "flight_id": "844275436-9",
+                "departureAt": "2022-05-27T21:10:46.000Z",
+                "arrivalAt": "2022-05-28T00:10:46.000Z",
+                "prices": {
+                    "currency": "SEK",
+                    "adult": 124.08,
+                    "child": 124.56
+                }
             }
         ]
     }
